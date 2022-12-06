@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahninja100&label=Profile%20views&color=000000&style=flat" alt="noahninja100" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noahninja100" alt="noahninja100" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=noahninja100&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Start Pages**
 - **I like the play** <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
