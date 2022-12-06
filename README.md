@@ -7,8 +7,10 @@
 
 - 🔭 I’m currently working on **Start Pages**
 - **I like the play** <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
-- **I use this to program** <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+- **I use these to program** <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
 
+- **I love using**
+> ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&animation=spin&fill=000000)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noahninja100&show_icons=true&theme=dark&locale=en&layout=compact" alt="noahninja100" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahninja100&show_icons=true&theme=dark&include_all_commits=true%count_private=true)
