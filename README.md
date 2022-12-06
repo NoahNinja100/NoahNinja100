@@ -6,12 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noahninja100" alt="noahninja100" /></a> </p>
 
 - 🔭 I’m currently working on **Start Pages**
-- **I like the play**
-<img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
-## I use these programs
-<img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
-<img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+- **I like the play** <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
+- **I use this to program** <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noahninja100&show_icons=true&theme=dark&locale=en&layout=compact" alt="noahninja100" /></p>
 
