@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm noahninja100</h1>
-<h3 align="center">A javascript/lua programmer</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kdam+Thmor+Pro&size=35&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+NoahNinja100" alt="https://git.io/typing-svg" />
+</p> <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kdam+Thmor+Pro&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=I+Am+A+Javascript%2FLua+Programmer" alt="https://git.io/typing-svg" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahninja100&label=Profile%20views&color=000000&style=flat" alt="noahninja100" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=noahninja100&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -13,8 +15,6 @@
 > ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&animation=spin&fill=000000)
 
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noahninja100&show_icons=true&theme=dark&locale=en&layout=compact" alt="noahninja100" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahninja100&show_icons=true&theme=dark&include_all_commits=true%count_private=true)
-
