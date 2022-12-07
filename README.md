@@ -18,3 +18,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noahninja100&show_icons=true&theme=dark&locale=en&layout=compact" alt="noahninja100" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahninja100&show_icons=true&theme=dark&include_all_commits=true%count_private=true)
+<p align="right">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=jn7f291z7oefy5l5ff53jzb8w&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" alt="https://github.com/kittinan/spotify-github-profile" />
+</p>
