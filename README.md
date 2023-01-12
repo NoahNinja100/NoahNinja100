@@ -15,6 +15,4 @@
 > ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&animation=spin&fill=000000)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NoahNinja100&show_icons=true&theme=dark&locale=en&layout=compact" alt="NoahNinja100" /></p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=noahninja100&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&count_private=true&hide=issues,prs" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=noahninja100&layout=compact&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=noahninja100&title_color=000000&text_color=000000&icon_color=000000&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&count_private=true&hide=issues,prs" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=noahninja100&title_color=000000&text_color=000000&icon_color=000000&layout=compact&theme=transparent&hide_border=true" /></a>
