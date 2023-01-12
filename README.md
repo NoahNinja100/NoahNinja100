@@ -15,7 +15,7 @@
 > ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&animation=spin&fill=000000)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noahninja100&show_icons=true&theme=dark&locale=en&layout=compact" alt="noahninja100" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NoahNinja100&show_icons=true&theme=dark&locale=en&layout=compact" alt="NoahNinja100" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahninja100&show_icons=true&theme=dark&include_all_commits=true%count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoahNinja100&show_icons=true&theme=dark&include_all_commits=true%count_private=true)
 <p align="right">  
